@@ -1,4 +1,4 @@
-import Cards from "../../compenents/Home/Cards/Cards";
+import Cards from "../../compenents/Cards/Cards";
 
 const Home=()=>{
     return(
